@@ -1,4 +1,4 @@
-import .reduce
-import .reporting
-import .scheduler
-import .tables
+from . import reduce
+from . import reporting
+from . import scheduler
+from . import tables
